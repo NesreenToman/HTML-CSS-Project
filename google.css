@@ -1,0 +1,88 @@
+
+.bdy{
+    /*border: 1px solid black;*/
+    padding: 10px;
+    margin: 20px 0px;
+    height: 447px;
+    align-items: center;
+}
+#google{
+    margin: 100px 500px 0px 480px;
+    height: 110px;
+}
+#search{ 
+    margin: 10px 0px 20px 400px;
+    width: 500px;
+    height: 40px;
+    border-radius: 30%;
+   
+}
+#mic{
+    width: 15px;
+    margin-left: 850px;
+}
+#google-search{
+    margin-left: 500px;
+    height: 30px;
+    width: 150px;
+}
+#feeling-luck{
+    height: 30px;
+    width: 150px;
+}
+#lbl{
+    margin-left: 560px;
+}
+.header-ul{
+    height: 20px;
+    text-align: right;
+    margin: 1000px;  
+}
+#cat{
+    border-radius: 50%;
+}
+
+.palestine{
+    height: 25px;
+    background-color: ghostwhite;
+    border-top: 1px solid #E8E5E4;
+    padding: 10px;
+}
+span{
+    margin-left: 55px;
+    color: grey;
+    height: 20px;
+}
+.footer{
+    height: 20px;
+    background-color: ghostwhite;
+    border-top: 1px solid #E8E5E4;
+    padding: 10px;
+   
+}
+ul{
+    display: inline;
+    list-style: none;
+}
+.left-ul{  
+    text-align: left;
+    margin-left: 0px;
+}
+
+ul li{
+    display: inline;
+    padding: 10px;
+}
+ul li a{
+    text-decoration: none;
+    color: gray;
+}
+ul li a:hover{
+    text-decoration: underline;
+}
+
+.right-ul{  
+    text-align: right;
+    margin: 600px;
+}
+
